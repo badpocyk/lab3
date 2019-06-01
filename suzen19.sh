@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir Documents
 cd Documents
 mkdir projects
