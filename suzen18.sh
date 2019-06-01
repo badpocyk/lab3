@@ -1,2 +1,2 @@
 #!/bin/bash
-man diary
+man diarys
