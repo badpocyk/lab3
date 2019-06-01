@@ -1,4 +1,4 @@
-#!/bin/bash
+s#!/bin/bash
 cd home/john
 rm -r Desktop
 rm -r Documents
