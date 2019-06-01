@@ -1,5 +1,6 @@
 #!/bin/bash
 ls
+
 cat diary.txt
 cd part1
 ls
